@@ -1,1 +1,1 @@
-# Ds Conda Enviroment Setup
+# Ds Conda Environment Setup
