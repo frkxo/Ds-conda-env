@@ -1,4 +1,4 @@
-name: tensorflow
+name: pythonData
 channels:
   - apple
   - conda-forge
